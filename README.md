@@ -13,8 +13,7 @@
   </a>
 </div>
 
-## I'm a QA Engineer. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1pXbbx1jppwZL1xdLuBSx4zgWN8uNs1mJ/view?usp=sharing)
 
