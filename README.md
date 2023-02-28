@@ -1,5 +1,8 @@
-![Header](assets/video_preview_h264.gif)
-<div id="header" align="center">
+<div id="Header" align="center">
+   <img src="assets/video_preview_h264.gif"/>
+</div>
+
+<div id="Im" align="center">
     <h1>Hi there, I'm  Ekaterina </h1>
     <h3>QA Engineer from Nefteyugansk</h3>
 </div>
@@ -32,9 +35,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
-
+- [Checklists](https://github.com/ludanimo/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/ludanimo/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/ludanimo/Bug-Reports)
+- [SQL Queries](https://github.com/ludanimo/SQL-Queries)
+- [Postman Collections](https://github.com/ludanimo/Postman-Collection)
