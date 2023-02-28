@@ -1,4 +1,4 @@
-!assets/video_preview_h264.gif)
+![Header](assets/video_preview_h264.gif)
 <div id="header" align="center">
     <h1>Hi there, I'm  Ekaterina </h1>
     <h3>QA Engineer from Nefteyugansk</h3>
