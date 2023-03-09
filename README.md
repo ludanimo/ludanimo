@@ -39,4 +39,4 @@
 - [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1oQODsCEjUcE2c0-KiwT3i5zdiILXujF8)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/14Qv4Rp9nmVwy5bvWLeLSbpbDP2PZYiECKA_HeeveZbY/edit#gid=0)
 - [SQL Queries](https://github.com/ludanimo/SQL-Queries)
-- [Postman Collections](https://drive.google.com/drive/folders/1--1-wNt4js3KqOFnw5-F8_weNCeQQ6P1)
+- [Postman Collections](https://github.com/ludanimo/Postman-Collection.git)
