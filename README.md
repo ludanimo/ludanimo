@@ -35,8 +35,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/ludanimo/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/ludanimo/Test-Suites-and-Test-Cases)
-- [Bug-Reports](https://github.com/ludanimo/Bug-Reports)
+- [Checklists](https://docs.google.com/spreadsheets/d/1ZQ-OPfbtXzdlBD3KrRLSOGRcbA7TJIAal3tkh-v7t5A/edit#gid=0)
+- [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1oQODsCEjUcE2c0-KiwT3i5zdiILXujF8)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/14Qv4Rp9nmVwy5bvWLeLSbpbDP2PZYiECKA_HeeveZbY/edit#gid=0)
 - [SQL Queries](https://github.com/ludanimo/SQL-Queries)
-- [Postman Collections](https://github.com/ludanimo/Postman-Collection)
+- [Postman Collections](https://drive.google.com/drive/folders/1--1-wNt4js3KqOFnw5-F8_weNCeQQ6P1)
