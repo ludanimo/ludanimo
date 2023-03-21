@@ -18,7 +18,7 @@
 
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1gQNk0whOOp6J4Vo7fbKZaZ_wNETjBIw-/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1eOj_ueTuVs-9GMqrqyP307mHWfdSowgJ/view?usp=sharing)
 
 
 
