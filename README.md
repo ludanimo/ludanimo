@@ -34,7 +34,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://docs.google.com/spreadsheets/d/1ZQ-OPfbtXzdlBD3KrRLSOGRcbA7TJIAal3tkh-v7t5A/edit#gid=0)
+- [Test Tasks](https://drive.google.com/drive/folders/1HEmQRwfSAlfLrn4BflYudtJi8FPmFmgM?usp=share_link)
 - [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1oQODsCEjUcE2c0-KiwT3i5zdiILXujF8)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/14Qv4Rp9nmVwy5bvWLeLSbpbDP2PZYiECKA_HeeveZbY/edit#gid=0)
 - [SQL Queries](https://github.com/ludanimo/SQL-Queries)
