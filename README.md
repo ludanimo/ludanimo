@@ -39,3 +39,4 @@
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/14Qv4Rp9nmVwy5bvWLeLSbpbDP2PZYiECKA_HeeveZbY/edit#gid=0)
 - [SQL Queries](https://github.com/ludanimo/SQL-Queries)
 - [Postman Collections](https://github.com/ludanimo/Postman-Collection.git)
+- [Certificates](https://drive.google.com/drive/folders/1Rs7E1aA7Y-nOFKeZQQ7YguWtAoqSY_bK?usp=sharing)
