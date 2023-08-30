@@ -1,7 +1,3 @@
-<div id="Header" align="center">
-   <img src="assets/video_preview_h264.gif"/>
-</div>
-
 <div id="Im" align="center">
     <h1>Hi there, I'm  Ekaterina </h1>
     <h3>QA Engineer from Nefteyugansk</h3>
