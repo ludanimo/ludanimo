@@ -13,7 +13,7 @@
 </div>
 
 
-## My CV
+### My CV
 [Link to my CV](https://drive.google.com/file/d/1cJmRI_e54PNP-SWQLvGsATqwjXX2oxDh/view?usp=sharing)
 
 ### Testing Documentation
@@ -21,5 +21,5 @@
 - [Test-Suites](https://drive.google.com/drive/folders/1krzVkqv9mH689aHLGhwrGALMRI1mqaVP?usp=sharing)
 - [Postman Collections](https://drive.google.com/drive/folders/1gdE1AEmlH-oJ17bFFXpdaZlb4t1UV40b?usp=drive_link)
 
-## My Certificates
+### My Certificates
 - [Certificates](https://drive.google.com/drive/folders/1Rs7E1aA7Y-nOFKeZQQ7YguWtAoqSY_bK?usp=sharing)
