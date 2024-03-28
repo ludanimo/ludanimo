@@ -14,13 +14,12 @@
 
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1pl5B_GBnSyuEV4u5ML1bFqATOqfj6yJs/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1cJmRI_e54PNP-SWQLvGsATqwjXX2oxDh/view?usp=sharing)
 
 ### Testing Documentation
 
-- [Test Tasks](https://drive.google.com/drive/folders/1HEmQRwfSAlfLrn4BflYudtJi8FPmFmgM?usp=share_link)
-- [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1oQODsCEjUcE2c0-KiwT3i5zdiILXujF8)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/14Qv4Rp9nmVwy5bvWLeLSbpbDP2PZYiECKA_HeeveZbY/edit#gid=0)
-- [SQL Queries](https://github.com/ludanimo/SQL-Queries)
-- [Postman Collections](https://github.com/ludanimo/Postman-Collection.git)
+- [Test-Suites](https://drive.google.com/drive/folders/1krzVkqv9mH689aHLGhwrGALMRI1mqaVP?usp=sharing)
+- [Postman Collections](https://drive.google.com/drive/folders/1gdE1AEmlH-oJ17bFFXpdaZlb4t1UV40b?usp=drive_link)
+
+## My Certificates
 - [Certificates](https://drive.google.com/drive/folders/1Rs7E1aA7Y-nOFKeZQQ7YguWtAoqSY_bK?usp=sharing)
