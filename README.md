@@ -14,7 +14,7 @@
 
 
 ### My CV
-[Link to my CV](https://drive.google.com/file/d/1cJmRI_e54PNP-SWQLvGsATqwjXX2oxDh/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1iSWRAXMyHDxO8IX9CmvuweBcsoDn8fs3/view?usp=drive_link)
 
 ### Testing Documentation
 
