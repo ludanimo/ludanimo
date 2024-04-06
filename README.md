@@ -13,8 +13,6 @@
 </div>
 
 
-### My CV
-[Link to my CV](https://drive.google.com/file/d/1yxMbQ-TD-cd8DseTjKxacPND6SlYfO1O/view?usp=drive_link)
 
 ### Testing Documentation
 
